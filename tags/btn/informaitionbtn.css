@@ -1,0 +1,10 @@
+informbtn{
+    background-color: #022891;
+    color: #ffffff;
+    font-family: arial , sans-serif , !important ;
+    font-size: 25px;
+    /* 
+    * main Rainbow rules for btns
+    */
+    box-shadow: #000000 2px;
+}

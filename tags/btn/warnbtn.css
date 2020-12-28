@@ -1,0 +1,9 @@
+warnbtn{
+    background-color: #dfc801;
+    font-family: arial , sans-serif , !important ;
+    font-size: 25px;
+    /* 
+    * main Rainbow rules for btns
+    */
+    box-shadow: #000000 2px;
+}

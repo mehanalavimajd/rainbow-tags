@@ -1,0 +1,8 @@
+rtl{
+    direction: rtl;
+    /* 
+    ! the reason of owerflow-x is that in some of old firefox versions there will be problems if you use direction:rtl
+    */
+    overflow-x: hidden;
+    float: right;
+}

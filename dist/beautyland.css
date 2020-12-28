@@ -1,0 +1,99 @@
+*{
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 16px;
+}
+little{
+    font-size: 12px;
+    margin: 0;
+    font-weight: 250;
+}
+msg{
+    background-color: #ffffff;
+    color: black;
+    margin: 2px;
+    border: 2px black solid;
+}
+coding{
+    background-color: rgb(182, 180, 180);
+    line-height: 1.3;
+    font: arial 20px;
+}
+rtl{
+    direction: rtl;
+    /* 
+    ! the reason of owerflow-x is that in some of old firefox versions there will be problems if you use direction:rtl
+    */
+    overflow-x: hidden;
+    float: right;
+}
+hide{
+    visibility:hidden;
+}
+submitbtn{
+    background-color: #12d32c;
+    font-family: arial , sans-serif , !important ;
+    font-size: 25px;
+    color: white;
+    /* 
+    * main Rainbow Tags rules for btns
+    */
+    box-shadow: #000000 2px;
+}
+ltr{
+    direction: ltr;
+    float: left;
+}
+informbtn{
+    background-color: #006eff;
+    font-family: arial , sans-serif , !important ;
+    font-size: 25px;
+    color: #ffffff;
+    /* 
+    * main Rainbow rules for btns
+    */
+    box-shadow: #000000 2px;
+}
+alertbtn{
+    background-color: #d64343;
+    font-family: arial , sans-serif , !important ;
+    font-size: 25px;
+    color: white;
+    /* 
+    * main Rainbow rules for btns
+    */
+    box-shadow: #000000 2px;
+}
+warnbtn{
+    background-color: #dfc801;
+    font-family: arial , sans-serif , !important ;
+    font-size: 25px;
+    color: white;
+    /* 
+    * main Rainbow rules for btns
+    */
+    box-shadow: #000000 2px;
+}
+h0{
+    display: block;
+    font-size: 2.17em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h7{
+    display: block;
+    font-size: .50em;
+    margin-block-start: 2.33em;
+    margin-block-end: 2.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}

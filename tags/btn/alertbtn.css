@@ -1,0 +1,10 @@
+alertbtn{
+    background-color: #d64343;
+    font-family: arial , sans-serif , !important ;
+    font-size: 25px;
+    color: white;
+    /* 
+    * main Rainbow rules for btns
+    */
+    box-shadow: #000000 2px;
+}
